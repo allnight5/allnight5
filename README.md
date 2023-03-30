@@ -13,8 +13,7 @@
   Java <br>
   Spring/SpringBoot <br>
   Redis <br>
-  Docker <br>
-  PostgreSQL
+  Docker <br> 
   
 </div>
 <br>
@@ -24,8 +23,8 @@
 
 <h3 align= "center"> CONTACT </h3>
 <div align= "center">
-Gmail : laancer4@gmail.com<br>
-Velog : https://velog.io/@calaf
+Gmail : deathnight1579@gmail.com<br>
+Velog : https://velog.io/@allnight5
   </div>
 <br><br>
 
